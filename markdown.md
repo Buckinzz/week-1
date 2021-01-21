@@ -40,4 +40,10 @@ this is a paragraph of text and things about dinosaurs
 
 - [x] walk the god
 - [x] pick up the kids
-- [] write awesome applications
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
