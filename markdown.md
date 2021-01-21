@@ -35,3 +35,9 @@ this is a paragraph of text and things about dinosaurs
     - sweep
     - pickup
 - get groceries
+
+## todos
+
+- [x] walk the god
+- [x] pick up the kids
+- [] write awesome applications
